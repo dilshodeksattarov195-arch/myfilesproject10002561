@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorselete",
+        "uuid": 21637889,
+        "checksum": "qovcof"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
